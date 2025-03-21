@@ -49,7 +49,7 @@ const App = () => {
             {showPopup && (
                 <div className="popup">
                     <div className="popup-content">
-                        <h2>TAMIL NADU</h2>
+                        <h2>Annakaavadi Anand </h2>
                         <TranslateWidget />
                         <p>POLICE</p>
                         <button onClick={handleAccept}>Accept</button>
